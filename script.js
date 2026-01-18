@@ -1,4 +1,3 @@
 //your JS code here. If required.
-const suc = document.createElement("p")
-suc.innerHTML = 
+body.innerHTML = 
 	`DOM load success`
